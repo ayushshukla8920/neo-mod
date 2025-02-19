@@ -11,4 +11,4 @@ xattr -c /Applications/NeoExam-Checker.app
 ```
 ## windows
 
-Coming Soon
+Link to Download : https://drive.google.com/file/d/1ikSv-5hlt_4X8-JRhkOH6TObMqJ_xXxR/view?usp=sharing
