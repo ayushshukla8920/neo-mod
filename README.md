@@ -1,5 +1,5 @@
 # neo-mod
-This is a Modded version of Neo-Checker that reduces Heating/CPU Throttling issue as well as lets use open other apps and use shortcuts.
+This is a Modded version of Neo-Checker that reduces Heating/CPU Throttling issue.
 
 ## Windows
 
